@@ -4,7 +4,7 @@
 - 💬 Ask me about C++
 - 🌱 I’m currently learning Golang
 
-- 📫 How to reach me: offamitkumar@gmail.com
+- 📫 How to reach me: [Facebook](https://www.facebook.com/offamitkumar/)
 
 <!--
 **offamitkumar/offamitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
