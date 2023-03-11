@@ -1,6 +1,7 @@
 ### Hi there 👋
   I'm a competitive programmer, problem setter and working as an Software Developer at IBM (Indian System Developement Labs). I'm part of toolchain project and working on OpenJDK for s390x architecture.
-
+  
+- 😄 I can help you with : C++, C, Java, Assembly(s390x), Python, Golang, Swift 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/offamitkumar/)
 
 <!--
